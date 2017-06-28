@@ -1,41 +1,36 @@
 # About Me
 
 ## Before GA:
-I was working at a web agency called BlueModus as a UX Lead.
+I was the Store Manager for a Chick-fil-A in Thornton
 
 ## Outcomes support I need:
-None - I will be providing it (with Becca)
+As much as possible.
 
 ## Day 1 Goals:
-1. Make 17 new developers
+Determine where I will fit best in the industry
 
 ## Two Truths and a Lie
 
-### Nick
-1. I have two cats named Gin and Tonic
-2. My last vacation was to the West Bank
-3. I bike 30 miles to get here each day
+### Chase
 
-### Becca
-1. I once ate 8 lobsters in one sitting.
-2. I skipped college graduation and booked a one way flight to Paris.
-3. I donated my eggs and have a child in Europe that I've never met.
+1. I've a prior employee of the federal govn't with an expired security clearance.
+2. Most of my educational experience is in aviation.
+3. I've lived in 3 other nations. 
 
 ## My LinkedIn
-[Here!](https://www.linkedin.com/in/nickandersonr)
+none
 
 ## Meetups I've attended:
-1. Denver Script (6/7)
-2. Denver Script (6/27)
+1. 
+2. 
 
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
-I like the idea of working for startup or small business. I think I could thrive in an agency role. It's important to me that my work have a visible impact on the company I'm working for. I also want to be able to wear metal tshirts to work.
+My ideal first job is one that will allow me to push myself and develop my skill quickly to become a more valuable developer. I also hope to be in a position to begin developing skills to move into cyber security. 
 
 ## What kind of role are you leaning towards (i.e. Frontend, Backend, etc)?
-I like frontend and UX work, so something with a combined dev/design role would be perfect. I also like talking to people, and would feel confident leading projects from a manamagent role. 
-
+As of day 3, I am leaning toward backend. I am much more interested in the functionality of web applications, and want to be able to create a useful application that can help others in some way. 
 ## Link to my resume: 
-[Here!](NickAnderson_Resume.pdf)
+Will do
 
 ## Link to my portfolio website: 
-[NickAnderson.rocks](http://NickAnderson.rocks)
+Will do
