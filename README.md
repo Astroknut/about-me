@@ -13,12 +13,12 @@ Determine where I will fit best in the industry
 
 ### Chase
 
-1. I've a prior employee of the federal govn't with an expired security clearance.
+1. I'm a prior employee of the federal govn't with an expired security clearance.
 2. Most of my educational experience is in aviation.
 3. I've lived in 3 other nations. 
 
 ## My LinkedIn
-none
+https://www.linkedin.com/in/charles-barrett-384684131/
 
 ## Meetups I've attended:
 1. 
