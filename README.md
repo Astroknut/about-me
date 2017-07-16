@@ -4,7 +4,7 @@
 I was the Store Manager for a Chick-fil-A in Thornton
 
 ## Outcomes support I need:
-As much as possible.
+Building a industry-specific resume and linkedin profile. 
 
 ## Day 1 Goals:
 Determine where I will fit best in the industry
