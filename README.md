@@ -1,7 +1,7 @@
 # About Me
 
 ## Before GA:
-I was the Store Manager for a Chick-fil-A in Thornton
+I was the Store Manager for a Chick-fil-A in Thornton. The bulk of my experience is in management in the food industry, but I've worked at a call center for customer service, for a millwright union doing basic maintenance at paper mills, and for Omni Resorts as a maintenance technician for beach-front condos/villas.
 
 ## Outcomes support I need:
 Building a industry-specific resume and linkedin profile. 
