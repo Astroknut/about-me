@@ -21,7 +21,7 @@ Determine where I will fit best in the industry
 https://www.linkedin.com/in/charles-barrett-384684131/
 
 ## Meetups I've attended:
-1. 
+1. DenverScript 07/25
 2. 
 
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
@@ -30,7 +30,7 @@ My ideal first job is one that will allow me to push myself and develop my skill
 ## What kind of role are you leaning towards (i.e. Frontend, Backend, etc)?
 As of day 3, I am leaning toward backend. I am much more interested in the functionality of web applications, and want to be able to create a useful application that can help others in some way. 
 ## Link to my resume: 
-Will do
+
 
 ## Link to my portfolio website: 
 Will do
