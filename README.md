@@ -20,7 +20,7 @@ Determine where I will fit best in the industry
 ## My LinkedIn
 https://www.linkedin.com/in/charles-barrett-384684131/
 
-##Personal Portfolio
+## Personal Portfolio
 http://www.cb3.space
 
 ## Meetups I've attended:
