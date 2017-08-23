@@ -25,15 +25,10 @@ http://www.cb3.space
 
 ## Meetups I've attended:
 1. DenverScript 07/25
-2. 
+2. DenverScript 08/22
 
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
 My ideal first job is one that will allow me to push myself and develop my skill quickly to become a more valuable developer. I also hope to be in a position to begin developing skills to move into cyber security. 
 
 ## What kind of role are you leaning towards (i.e. Frontend, Backend, etc)?
-As of day 3, I am leaning toward backend. I am much more interested in the functionality of web applications, and want to be able to create a useful application that can help others in some way. 
-## Link to my resume: 
-
-
-## Link to my portfolio website: 
-Will do
+Backend 
